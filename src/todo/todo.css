@@ -1,0 +1,19 @@
+.delete-icon{
+    color:red;
+
+}
+.icons{
+    margin-left:25px;
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    font-size: 25px;
+
+}
+.login-form{
+   width: 450px;
+}
+.app{
+    background: linear-gradient(to bottom, #33ccff 0%, #ccffff 100%);
+}
